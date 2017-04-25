@@ -1,6 +1,10 @@
 Miwok App
 ===================================
 
+**Important: This repository contains the updated version of the app. Some students
+had issue with the migration/import process on their computer so I updated to the
+latest version with Android Stuido and made the result available for them.**
+
 This app displays lists of vocabulary words for the user to learn the Miwok language.
 Used in a Udacity course in the Beginning Android Nanodegree.
 
